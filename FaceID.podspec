@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'FaceID'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'For Local auth'
  
   s.description      = <<-DESC
