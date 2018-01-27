@@ -19,8 +19,8 @@ import UIKit
 
 import FaceID
 
-class LocaLAuthViewController: UIViewController 
-{
+class LocaLAuthViewController: UIViewController {
+
     let localAuth = LocalAuth()
     
     override func viewDidLoad() {
@@ -38,10 +38,12 @@ class LocaLAuthViewController: UIViewController
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    
 }
 
 extension LocaLAuthViewController: LocalAuthDelegate
 {
+
     func pass() {
         // code for path here
         print("Pass...")
@@ -56,6 +58,7 @@ extension LocaLAuthViewController: LocalAuthDelegate
         // code if your device not support touch id or face id here
         print("Not supported...")
     }
+    
 }
 
 
