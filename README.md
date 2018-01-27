@@ -16,7 +16,7 @@ pod 'FaceID'
 import UIKit
 import FaceID
 
-class ViewController: UIViewController {
+class LocaLAuthViewController: UIViewController {
 
     let localAuth = LocalAuth()
     
@@ -28,7 +28,7 @@ class ViewController: UIViewController {
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-        localAuth.startAuthentication()
+        localAuth.checkAuthentication()
     }
 
     override func didReceiveMemoryWarning() {
@@ -37,7 +37,7 @@ class ViewController: UIViewController {
     }
 }
 
-extension ViewController: LocalAuthDelegate{
+extension LocaLAuthViewController: LocalAuthDelegate{
     func pass() {
         // code for path here
         print("Pass...")
