@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		4505557A2014E7790009042D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 450555792014E7790009042D /* AppDelegate.swift */; };
-		4505557C2014E7790009042D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4505557B2014E7790009042D /* ViewController.swift */; };
 		4505557F2014E7790009042D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4505557D2014E7790009042D /* Main.storyboard */; };
 		450555812014E7790009042D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 450555802014E7790009042D /* Assets.xcassets */; };
 		450555842014E7790009042D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 450555822014E7790009042D /* LaunchScreen.storyboard */; };
@@ -44,7 +43,6 @@
 /* Begin PBXFileReference section */
 		450555762014E7790009042D /* FaceID.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FaceID.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		450555792014E7790009042D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		4505557B2014E7790009042D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		4505557E2014E7790009042D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		450555802014E7790009042D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		450555832014E7790009042D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -118,7 +116,6 @@
 				D60C9631201CB441000C53EA /* View */,
 				D60C962D201CB399000C53EA /* Resources */,
 				450555792014E7790009042D /* AppDelegate.swift */,
-				4505557B2014E7790009042D /* ViewController.swift */,
 				4505557D2014E7790009042D /* Main.storyboard */,
 				450555802014E7790009042D /* Assets.xcassets */,
 				450555822014E7790009042D /* LaunchScreen.storyboard */,
@@ -375,7 +372,6 @@
 				D60C963D201CB572000C53EA /* LocaLAuthViewController.swift in Sources */,
 				D60C963F201CB58A000C53EA /* ValidViewController.swift in Sources */,
 				D60C963B201CB529000C53EA /* BaseViewController.swift in Sources */,
-				4505557C2014E7790009042D /* ViewController.swift in Sources */,
 				D60C9641201CB5A6000C53EA /* InvalidViewController.swift in Sources */,
 				D60C9644201CB5E0000C53EA /* HomeViewController.swift in Sources */,
 				4505557A2014E7790009042D /* AppDelegate.swift in Sources */,

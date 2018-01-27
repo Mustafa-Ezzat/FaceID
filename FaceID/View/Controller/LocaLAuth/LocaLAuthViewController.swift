@@ -20,7 +20,7 @@ class LocaLAuthViewController: BaseViewController {
 
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-        localAuth.startAuthentication()
+        localAuth.checkAuthentication()
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()

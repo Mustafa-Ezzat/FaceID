@@ -19,7 +19,7 @@ open class LocalAuth: NSObject {
     
     open var delegate:LocalAuthDelegate!
     
-    open func startAuthentication() {
+    open func checkAuthentication() {
         let context = LAContext()
         var error: NSError?
         var description: String!
