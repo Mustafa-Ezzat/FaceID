@@ -19,7 +19,6 @@ import UIKit
 import FaceID
 
 class LocaLAuthViewController: UIViewController {
-
     let localAuth = LocalAuth()
     
     override func viewDidLoad() {
@@ -55,5 +54,6 @@ extension LocaLAuthViewController: LocalAuthDelegate{
         print("Not supported...")
     }
 }
+
 
 # Have a nice day :)
