@@ -11,6 +11,8 @@ by drag the LocalAuth.swift file from /Source forlder to your project
 
 pod 'FaceID'
 
+cocoapods tutorial: https://cocoapods.org
+
 # Usage 
 
 import UIKit
