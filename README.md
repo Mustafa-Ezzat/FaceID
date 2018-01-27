@@ -19,8 +19,10 @@ import UIKit
 
 import FaceID
 
-class LocaLAuthViewController: UIViewController {
+class LocaLAuthViewController: BaseViewController {
 
+    // BaseViewController inherit from UIViewController
+    
     let localAuth = LocalAuth()
     
     override func viewDidLoad() {
