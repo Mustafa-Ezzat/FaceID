@@ -16,9 +16,11 @@ cocoapods tutorial: https://cocoapods.org
 # Usage 
 
 import UIKit
+
 import FaceID
 
-class LocaLAuthViewController: UIViewController {
+class LocaLAuthViewController: UIViewController 
+{
     let localAuth = LocalAuth()
     
     override func viewDidLoad() {
@@ -38,7 +40,8 @@ class LocaLAuthViewController: UIViewController {
     }
 }
 
-extension LocaLAuthViewController: LocalAuthDelegate{
+extension LocaLAuthViewController: LocalAuthDelegate
+{
     func pass() {
         // code for path here
         print("Pass...")
