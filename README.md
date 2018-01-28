@@ -70,4 +70,8 @@ extension LocaLAuthViewController: LocalAuthDelegate
 ![Alt text](https://s10.postimg.org/v2v6r61c5/i_Phone6s-_Matched.png?raw=true "Touch ID matching")
 ![Alt text](https://s10.postimg.org/fu59ddzxx/i_Phone6s-_Not_Matched.png?raw=true "Touch ID not matching")
 
+![Alt text](https://postimg.org/gallery/2gknrc12e/?raw=true "Touch ID not matching")
+
+
+
 # Have a nice day :)
