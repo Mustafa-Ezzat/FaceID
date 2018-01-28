@@ -96,4 +96,5 @@ I don't have iPhone-X, don't worry :)
 ![Alt text](https://s10.postimg.org/6x3f5v4qh/i_Phone6s-_Not_Matching.png?raw=true "Touch ID not matching")
 
 
+
 # Have a nice day :)
