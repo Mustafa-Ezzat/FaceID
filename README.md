@@ -63,8 +63,7 @@ extension LocaLAuthViewController: LocalAuthDelegate
     
 }
 
-[url=https://postimg.org/image/cys670w39/][img]https://s10.postimg.org/cys670w39/i_Phone6s-_Enrolled.png[/img][/url]
-
+https://s10.postimg.org/cys670w39/i_Phone6s-_Enrolled.png
 
 
 # Have a nice day :)
