@@ -1,5 +1,5 @@
 # FaceID
-Local auth through Touch ID or Face ID
+Local auth through Touch ID, Face ID Or Passcode
 
 # Install
 
